@@ -1,0 +1,4 @@
+django admin
+
+username: mojopy
+passward: Mojopy@Py
