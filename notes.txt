@@ -1,4 +1,5 @@
-django admin
 
-username: mojopy
-passward: Mojopy@Py
+
+Sub Modules
+
+git submodule add https://github.com/examplerepo
